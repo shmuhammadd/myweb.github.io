@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
+first_name: Shamsudden
 last_name: Chien
 
 # Status emoji
