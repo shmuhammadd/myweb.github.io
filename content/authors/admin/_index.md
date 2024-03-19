@@ -32,7 +32,7 @@ bio: My research interests include Natural language processing, machine learning
 
 # Interests to show in About widget
 interests:
-- Natural Language Processing
+- Low-resource NLP
 - Sentiment Analysis
 - Hate Speech Detection
 - Emotion Analysis
