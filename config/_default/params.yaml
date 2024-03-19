@@ -5,6 +5,8 @@
 
 # Appearance
 
+i_am_a_sponsor: true
+
 appearance:
   theme_day: minimal
   theme_night: minimal
@@ -110,7 +112,6 @@ extensions:
     enable: true
 
 # Security
-
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
