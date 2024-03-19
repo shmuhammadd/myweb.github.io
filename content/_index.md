@@ -62,15 +62,13 @@ sections:
     content:
        title: News
        text: |
-              - [2023-09-04]: I will present our paper at EPIA2023 (Portuguese Conference on Artificial Intelligence)
-              
-              - [2023-07-04]: I will present our paper [SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)](https://arxiv.org/pdf/2304.06845.pdf)) at SemEval2023 Workshop Co-located with ACL2023 Toronto Canada.
-              
-              - [2023-06-11]: I will attend Africa Arrtifical Intelligence Conference Rewanda
-              
-              - [2023-05-05]: Our paper: [Afrisenti:A Twitter Sentiment Analysis Benchmark for African Languages ](https://arxiv.org/pdf/2302.08956.pdf) won the best paper award at AfricaNLP2023
-              - [2023-05-02]: Our project, [AfiHate](https://github.com/AfriHate/AfriHate), was selected as one of the [top 100 AI projects](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjmvNiZ8_D_AhVxTaQEHU0RCykQFnoECBoQAQ&url=https%3A%2F%2Fircai.org%2Fglobal-top-100-outstanding-projects%2Fresults%2F&usg=AOvVaw1wyZ7a53_wi2qDADuN4bFD&opi=89978449) that solve problems related to the 17 United Nations Sustainable Development Goals.
-              - [2023-03-29]: I submitted my PhD thesis, waiting for defense.
+              - [2024-02-23]: I joined Imperial College London as a Google DeepMind Academic Fellow.
+              - [2023-09-04]: I will present our paper at EPIA 2023 (Portuguese Conference on Artificial Intelligence).
+              - [2023-07-04]: I will present our paper, "SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)," at the SemEval 2023 Workshop co-located with ACL 2023 in Toronto, Canada. [SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)](https://arxiv.org/pdf/2304.06845.pdf)
+              - [2023-06-11]: I will attend the Africa Artificial Intelligence Conference in Rwanda.
+              - [2023-05-05]: Our paper, "Afrisenti: A Twitter Sentiment Analysis Benchmark for African Languages," won the best paper award at AfricaNLP 2023. [Afrisenti: A Twitter Sentiment Analysis Benchmark for African Languages](https://arxiv.org/pdf/2302.08956.pdf)
+              - [2023-05-02]: Our project, AfriHate, was selected as one of the top 100 AI projects that solve problems related to the 17 United Nations Sustainable Development Goals. [AfriHate](https://github.com/AfriHate/AfriHate) [Top 100 AI Projects](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjmvNiZ8_D_AhVxTaQEHU0RCykQFnoECBoQAQ&url=https%3A%2F%2Fircai.org%2Fglobal-top-100-outstanding-projects%2Fresults%2F&usg=AOvVaw1wyZ7a53_wi2qDADuN4bFD)
+              - [2023-03-29]: I submitted my PhD thesis and am awaiting the defense.
     design:
        columns: '2'
   - block: collection
