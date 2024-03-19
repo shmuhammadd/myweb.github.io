@@ -77,8 +77,8 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
-        featured_only: true
+          - publications
+        featured_only: false
     design:
       columns: '2'
       view: citation
