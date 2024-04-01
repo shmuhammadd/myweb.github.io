@@ -42,7 +42,7 @@ education:
   courses:
   - course: PhD in Computer Science 
     institution: University of Porto , Portugal
-    year: (2018 - awaiting defense)
+    year: 2023
   - course: MSc in Computer Science
     institution: University of Manchester , UK
     year: 2013
