@@ -24,4 +24,8 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 18th International Workshop on Semantic Evaluation
   (SemEval-2024)*'
+- manuscript
+links:
+- name: arXiv
+  url:https://arxiv.org/abs/2403.18933
 ---
