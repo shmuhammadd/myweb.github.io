@@ -1,7 +1,7 @@
 ---
 title: NaijaSenti Dataset
 subtitle: Writing technical content in Markdown
-date: 2024-01-04
+date: 2024-03-29
 math: true
 draft: false
 ---
