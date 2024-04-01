@@ -22,7 +22,7 @@ authors:
 - Chris Emezue
 - Colin Leong
 - Michael Beukman
-- Shamsuddeen \textbf Muhammad
+- Shamsuddeen Muhammad
 - Guyo Jarso
 - Oreen Yousuf
 - Andre Niyongabo Rubungo

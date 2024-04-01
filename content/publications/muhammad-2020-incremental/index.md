@@ -6,7 +6,7 @@ title: Incremental Approach for Automatic Generation of Domain-Specific Sentimen
 subtitle: ''
 summary: ''
 authors:
-- \textbfShamsuddeen Hassan Muhammad
+- Shamsuddeen Hassan Muhammad
 - Pavel Brazdil
 - Alı́pio Jorge
 tags: []

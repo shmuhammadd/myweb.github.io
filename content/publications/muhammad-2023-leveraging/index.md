@@ -6,7 +6,7 @@ title: Leveraging Symbolic and Deep Learning Techniques for Explainable Sentimen
 subtitle: ''
 summary: ''
 authors:
-- Shamsuddeen Hassan \textbfMuhammad
+- Shamsuddeen Hassan Muhammad
 - Pavel Brazdil
 - Alípio M. Jorge
 tags: []

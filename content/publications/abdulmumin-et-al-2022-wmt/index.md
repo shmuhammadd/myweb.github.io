@@ -12,7 +12,7 @@ authors:
 - Chris Chinenye Emezue
 - Everlyn Chimoto
 - Tosin Adewumi
-- Shamsuddeen \textbfMuhammad
+- Shamsuddeen Muhammad
 - Mofetoluwa Adeyemi
 - Oreen Yousuf
 - Sahib Singh

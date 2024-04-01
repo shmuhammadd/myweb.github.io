@@ -5,7 +5,7 @@ title: 'AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages'
 subtitle: ''
 summary: ''
 authors:
-- Shamsuddeen Hassan \textbfMuhammad
+- Shamsuddeen Hassan Muhammad
 - Idris Abdulmumin
 - Abinew Ali Ayele
 - Nedjma Ousidhoum

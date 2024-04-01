@@ -17,7 +17,7 @@ authors:
 - Sebastian Ruder
 - Stephen Mayhew
 - Israel Abebe Azime
-- Shamsuddeen H. \textbf Muhammad
+- Shamsuddeen H. Muhammad
 - Chris Chinenye Emezue
 - Joyce Nakatumba-Nabende
 - Perez Ogayo

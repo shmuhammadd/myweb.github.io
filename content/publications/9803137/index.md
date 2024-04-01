@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Idris Abdulmumin
 - Bashir Shehu Galadanci
-- Shamsuddeen \textbfHassan Muhammad
+- Shamsuddeen Hassan Muhammad
 - Garba Aliyu
 tags: []
 categories: []

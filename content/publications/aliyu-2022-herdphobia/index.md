@@ -9,7 +9,7 @@ authors:
 - Saminu Aliyu
 - Gregory Wajiga
 - Muhammad Murtala
-- \textbfShamsuddeen Muhammad
+- Shamsuddeen Muhammad
 - Idris Abdulmumin
 - Ibrahim Ahmad
 tags: []

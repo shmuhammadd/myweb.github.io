@@ -6,7 +6,7 @@ title: 'Massive open online courses: awareness, adoption, benefits and challenge
 subtitle: ''
 summary: ''
 authors:
-- SH \textbfMuhammad
+- SH Muhammad
 - A Mustapha
 - K Haruna
 tags: []

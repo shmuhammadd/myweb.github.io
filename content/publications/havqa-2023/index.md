@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Shantipriya Parida
 - Idris Abdulmumin
-- \textbfShamsuddeen Hassan Muhammad
+- Shamsuddeen Hassan Muhammad
 - Aneesh Bose
 - Guneet Singh Kohli
 - Ibrahim Said Ahmad

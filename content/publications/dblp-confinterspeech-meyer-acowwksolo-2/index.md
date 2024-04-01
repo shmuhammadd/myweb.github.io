@@ -25,7 +25,7 @@ authors:
 - Bernard Opoku
 - Olanrewaju Samuel
 - Jesujoba Alabi
-- \textbfShamsuddeen Hassan Muhammad
+- Shamsuddeen Hassan Muhammad
 tags: []
 categories: []
 date: '2022-01-01'

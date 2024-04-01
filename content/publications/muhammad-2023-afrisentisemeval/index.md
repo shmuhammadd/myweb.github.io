@@ -6,7 +6,7 @@ title: 'AfriSenti-SemEval: Sentiment Analysis for Low-resource African Languages
 subtitle: ''
 summary: ''
 authors:
-- \textbfShamsuddeen Hassan Muhammad
+- Shamsuddeen Hassan Muhammad
 - Seid Muhie Yimam
 - Idris Abdulmumin
 - Ibrahim Sa'id Ahmad

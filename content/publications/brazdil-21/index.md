@@ -9,7 +9,7 @@ authors:
 - Pavel Brazdil
 - Purificação Silvano
 - Fátima Silva
-- Shamsuddeen \textbfMuhammad
+- Shamsuddeen Muhammad
 - Fátima Oliveira
 - João Cordeiro
 - António Leal

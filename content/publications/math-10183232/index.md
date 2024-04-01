@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Pavel Brazdil
-- Shamsuddeen H. \textbfMuhammad
+- Shamsuddeen H. fMuhammad
 - Fátima Oliveira
 - João Cordeiro
 - Fátima Silva

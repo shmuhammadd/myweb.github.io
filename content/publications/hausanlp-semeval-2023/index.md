@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Saminu Aliyu
 - Saheed Abdullahi
-- \textbfShamsuddeen Hassan Muhammad
+- Shamsuddeen Hassan Muhammad
 - Ibrahim Sa'id Ahmad
 - Idris Abdulmumin
 - Aliyu Yusuf

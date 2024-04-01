@@ -13,7 +13,7 @@ authors:
 - Chester Palen-Michel
 - Constantine Lignos
 - Jesujoba O. Alabi
-- Shamsuddeen H. \textbfMuhammad
+- Shamsuddeen H. fMuhammad
 - Peter Nabende
 - Cheikh M. Bamba Dione
 - Andiswa Bukula

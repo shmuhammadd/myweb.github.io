@@ -17,7 +17,7 @@ authors:
 - Handel Chiagozie Emezue
 - Ifeoluwatayo Adeseye Ige
 - Atnafu Lambebo Tonja
-- Chiamaka Ijeoma Chukwuneke and\textbf Shamsuddeen Hassan Muhammad
+- Chiamaka Ijeoma Chukwuneke and Shamsuddeen Hassan Muhammad
 - Olanrewaju Samuel
 tags: []
 categories: []

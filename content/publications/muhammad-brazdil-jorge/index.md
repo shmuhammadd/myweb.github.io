@@ -5,7 +5,7 @@ title: Combining Symbolic and Deep Learning Approaches for Sentiment Analysis
 subtitle: ''
 summary: ''
 authors:
-- Shamsudeen Hassan \textbfMuhammad
+- Shamsudeen Hassan Muhammad
 - Pavel Brazdil
 - Alípio Jorge
 tags: []

@@ -9,7 +9,7 @@ authors:
 - Satya Ranjan Dash
 - Musa Abdullahi Dawud
 - Shantipriya Parida
-- Shamsuddeen \textbfMuhammad
+- Shamsuddeen Muhammad
 - Ibrahim Saâ€™id Ahmad
 - Subhadarshi Panda
 - OndÅ™ej Bojar

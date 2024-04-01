@@ -8,7 +8,7 @@ authors:
 - Ibrahim Said Ahmad
 - Azuraliza Abu Bakar
 - Mohd Ridzwan Yaakub
-- Shamsuddeen Hassan \textbfMuhammad
+- Shamsuddeen Hassan Muhammad
 tags: []
 categories: []
 date: '2020-01-01'
