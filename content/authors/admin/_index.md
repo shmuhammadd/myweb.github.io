@@ -19,8 +19,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: DeepMind Academic Fellow
-
+role: Google DeepMind Academic Fellow/Advanced Research Fellow 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Imperial College London
