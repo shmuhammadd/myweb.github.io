@@ -5,7 +5,7 @@ summary: Learn how to use Academic's docs layout for publishing online courses, 
 weight: 1
 icon: book-reader
 icon_pack: fas
-draft: true
+draft: false
 
 # Page metadata.
 title: Tutorials
